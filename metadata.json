@@ -1,0 +1,8 @@
+{
+  "name": "WakeMaster AI",
+  "description": "Smart alarm clock with missions, sleep tracking, and Health Connect integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
